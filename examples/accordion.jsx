@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Panel from 'cat-panel';
+import Panel from 'rs-panel';
 import '../assets/index.less'
 import { Accordion, Collapse } from '../src/index.js';
 

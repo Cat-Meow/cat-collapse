@@ -11,7 +11,7 @@ class Accordion extends Component {
   static defaultProps = {
     liveKey: '',
     auto: false,
-    prefixName: 'cat'
+    prefixName: 'salt'
   }
 
   _createLiveKey(props) {

@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Panel from 'cat-panel'
+import Panel from 'rs-panel'
 
 class Collapse extends Component {
     static propTypes = {
@@ -9,7 +9,7 @@ class Collapse extends Component {
     
     static defaultProps = {
         show: false,
-        prefixName: 'cat'
+        prefixName: 'salt'
     }
 
     render() {
