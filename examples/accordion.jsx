@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Panel from 'rs-panel';
-import '../assets/index.less'
 import { Accordion, Collapse } from '../src/index.js';
 
 export default class Example extends Component {
