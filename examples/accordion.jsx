@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Panel from 'rs-panel';
-import { Accordion, Collapse } from '../src/index.js';
+import Accordion from '../src/accordion.js';
+import Collapse from '../src/collapse.js';
 
 export default class Example extends Component {
   state = {

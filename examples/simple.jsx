@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Collapse } from '../src/index';
+import Collapse from '../src/collapse.js';
 
 export default class Example extends Component {
   state = {
